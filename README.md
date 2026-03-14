@@ -69,4 +69,5 @@ print("----------------------------------------------------------------------")
 
 thus the program Series Queues with infinite capacity - Open Jackson Network was verified by using python program
 
-# LINK : http://github.com/gtgowtham22/Open-Jacson-Networks/edit/main/README.md
+# LINK : 
+http://github.com/gtgowtham22/Open-Jacson-Networks
